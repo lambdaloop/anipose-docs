@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="folder_structure_2.svg">
+   sodipodi:docname="folder_structure_2.svg"
+   inkscape:export-filename="/home/pierre/research/tuthill/anipose-docs/folder_structure_2.png"
+   inkscape:export-xdpi="150.09151"
+   inkscape:export-ydpi="150.09151">
   <defs
      id="defs2">
     <marker
@@ -537,15 +540,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="351.63883"
-     inkscape:cy="295.88174"
+     inkscape:zoom="1.979899"
+     inkscape:cx="215.18643"
+     inkscape:cy="251.08113"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1558"
-     inkscape:window-x="0"
+     inkscape:window-width="968"
+     inkscape:window-height="1548"
+     inkscape:window-x="1582"
      inkscape:window-y="42"
      inkscape:window-maximized="0"
      fit-margin-top="0"
