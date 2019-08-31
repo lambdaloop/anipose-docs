@@ -4,3 +4,4 @@
 
 ![Folder demo](https://raw.githubusercontent.com/lambdaloop/anipose-docs/master/folder_structure.png)
 
+This is a test
